@@ -1,0 +1,100 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1717258497465909, "dur":51, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258497466014, "dur":1724, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258497467763, "dur":176, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258497467998, "dur":318, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258497468502, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1717258497468590, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1717258497468766, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1717258497468929, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1717258497469527, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717258497470332, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717258497471082, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717258497473862, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1717258497473983, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1717258497468340, "dur":5885, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258497474227, "dur":5037069, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258502511297, "dur":114, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258502511532, "dur":1361, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1717258497469025, "dur":5267, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717258497474297, "dur":582, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717258497474879, "dur":589, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717258497475469, "dur":5370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717258497480842, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1717258497481386, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717258497481385, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717258497481676, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717258497481921, "dur":1569, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717258497483966, "dur":5114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1717258497483966, "dur":5116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1717258497489128, "dur":5022143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717258497468978, "dur":5261, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717258497474243, "dur":6539, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717258497480842, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717258497480919, "dur":8146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1717258497480841, "dur":8627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717258497489987, "dur":150287, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717258497645314, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717258497645313, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717258497645452, "dur":587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"H:/Unity/SOLARSYSTEMPROJECT/Star_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717258497646043, "dur":4865229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717258497469018, "dur":5232, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717258497474254, "dur":1043, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717258497475298, "dur":5495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717258497481053, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497481223, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualEffectGraph.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497481438, "dur":563, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497482002, "dur":685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497482689, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497482941, "dur":521, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497483463, "dur":189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717258497480796, "dur":2944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":3, "ts":1717258497485095, "dur":5023786, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":4, "ts":1717258497469182, "dur":5131, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717258497474318, "dur":295, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717258497474614, "dur":537, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717258497475151, "dur":5857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717258497481388, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497481387, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497481680, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497481663, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497481940, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497482035, "dur":555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497482034, "dur":557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497482615, "dur":816, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497482614, "dur":819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497483458, "dur":377, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497483458, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717258497484033, "dur":5027257, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717258497469141, "dur":5164, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717258497474310, "dur":612, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717258497474922, "dur":392, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717258497475315, "dur":6479, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717258497481803, "dur":1265, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497481795, "dur":1275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497483090, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497483089, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497483159, "dur":306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497483159, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497483756, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717258497486091, "dur":5025209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717258497469252, "dur":5360, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717258497474612, "dur":521, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717258497475164, "dur":5627, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717258497480830, "dur":878, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1717258497481711, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1717258497482027, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497482010, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497482207, "dur":530, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497482206, "dur":532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497482756, "dur":294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497482755, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497483071, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497483070, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497483235, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497483234, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497483300, "dur":221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity\\Star\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497483300, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles H:/Unity/SOLARSYSTEMPROJECT/Star_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717258497484036, "dur":5027238, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717258502516505, "dur":491, "ph":"X", "name": "ProfilerWriteOutput" }
+,
